@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, vino!");
+    vino_graphics::run_graphics();
 }

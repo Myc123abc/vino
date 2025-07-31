@@ -7,3 +7,4 @@ license = "MIT OR Apache-2.0"
 repository = "https://github.com/Myc123abc/vino"
 
 [dependencies]
+vino-graphics = { path = "../vino-graphics" }
