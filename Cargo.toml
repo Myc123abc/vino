@@ -1,0 +1,8 @@
+[package]
+name = "vino"
+version = "0.1.0"
+edition = "2024"
+description = "A visual novel engine in the future."
+license = "MIT OR Apache-2.0"
+
+[dependencies]
